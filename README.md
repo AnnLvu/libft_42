@@ -31,7 +31,6 @@ This project includes several types of functions:
   - `ft_lstnew`, `ft_lstadd_front`, `ft_lstsize`, `ft_lstlast`
   - `ft_lstadd_back`, `ft_lstdelone`, `ft_lstclear`, `ft_lstiter`
 
-For a full list of functions, refer to the [function descriptions](./functions.md).
 
 ## Installation
 
