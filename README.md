@@ -1,12 +1,5 @@
 # Libft - 42 School Project 💻
 
-## Table of Contents 📜
-
-- [Introduction](#introduction)
-- [Functions Implemented](#functions-implemented)
-- [Installation](#installation)
-
-
 ## Introduction 📚
 
 **Libft** is a custom implementation of several C standard library functions, along with additional utilities that can be useful for future projects. This library is developed as part of the curriculum at [42 School](https://www.42.fr/), and serves as a foundation for future projects that require similar functionality.
